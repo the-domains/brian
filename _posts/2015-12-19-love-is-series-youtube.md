@@ -12,8 +12,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/playlist?list=PLSU6kQR-qDNXtH3sVXDPk6YrzkHJMyU1R'
 title: Love Is Series - YouTube
-datePublished: '2015-12-19T22:07:21.345Z'
-dateModified: '2015-12-19T22:06:09.653Z'
+datePublished: '2015-12-19T22:07:21.446Z'
+dateModified: '2015-12-19T22:06:02.926Z'
 sourcePath: _posts/2015-12-19-love-is-series-youtube.md
 published: true
 inFeed: true
