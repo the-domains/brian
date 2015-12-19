@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brian]]></title>
         <description><![CDATA[Brian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 05:58:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 06:22:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About | Cruz for President]]></title>
+            <description><![CDATA[<article><h1>About | Cruz for President</h1><p>About Throughout his entire life, Ted Cruz has proven to be a passionate and effective fighter for limited government, economic growth, and the Constitution. Ted's calling to public service has been inspired by his first-hand observation of the pursuit of freedom and opportunity in America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e19679f58935be6a12030bff3bee75685f2aa904.jpg"></article>]]></description>
+            <link>https://www.tedcruz.org/about/</link>
+            <guid isPermaLink="false">f1b17f25-d072-458e-a76b-829c36c91010</guid>
+            <pubDate>Sat, 19 Dec 2015 06:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brian]]></title>
             <description><![CDATA[<h1>Brian</h1>]]></description>
-            <link>undefinedbrian/index.html</link>
+            <link>https://thegrid.ai/brian/brian/index.html</link>
             <guid isPermaLink="false">a50f8865-c124-4dd9-ac5d-2ab4ecd7c256</guid>
             <pubDate>Sat, 19 Dec 2015 05:58:37 GMT</pubDate>
         </item>
