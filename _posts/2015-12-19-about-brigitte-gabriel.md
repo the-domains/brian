@@ -17,8 +17,8 @@ keywords:
   - expertise
   - fbi
 description: Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...
-datePublished: '2015-12-19T06:30:45.661Z'
-dateModified: '2015-12-19T06:28:24.436Z'
+datePublished: '2015-12-19T07:25:40.104Z'
+dateModified: '2015-12-19T07:25:22.116Z'
 author: []
 related: []
 app_links: []
@@ -27,12 +27,14 @@ sourcePath: _posts/2015-12-19-about-brigitte-gabriel.md
 published: true
 authors: []
 publisher:
-  favicon: 'http://www.actforamerica.org/templates/actforamerica/build/img/favicon.png'
-  url: 'http://www.actforamerica.org'
   name: Act for America
   domain: www.actforamerica.org
+  url: 'http://www.actforamerica.org'
+  favicon: 'http://www.actforamerica.org/templates/actforamerica/build/img/favicon.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+December 19, 2015
+
 <article style=""><h1>About Brigitte Gabriel</h1><p>Brigitte Gabriel is the Founder and President of Act for America. Ms. Gabriel is one of the leading national security experts in the world -providing information and analysis on the rise of Islamic terrorism. Ms. Gabriel lectures nationally and internationally about national security and current affairs. Her expertise is sought...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db44d4a529c2921d0087035e2fc6027f9d86820f.jpg" /></article>
