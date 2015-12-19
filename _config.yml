@@ -1,0 +1,28 @@
+name: Brian
+favicon: null
+layout_spectrum: 0.02699691941961646
+typography_spectrum: 0.3589185739401728
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5021960351150483
+  lightness: 0.47188979270868003
+  saturation: 0.7676620311103761
+  rhythmicContrast: 0.4807615736499429
+purpose: []
